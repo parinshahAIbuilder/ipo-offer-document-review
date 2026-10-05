@@ -9,6 +9,13 @@ It was built from a working merchant banking review practice rather than from
 the regulations alone, so a good deal of what it encodes is the difference
 between a finding that survives contact with the issuer and one that does not.
 
+The companion skill
+[review-markup](https://github.com/parinshahAIbuilder/review-markup)
+delivers the findings into the issuer's own files: colour coded highlights with
+severity graded comments in the offer document itself, tracked changes in Word,
+and cell marking in Excel. This skill produces the findings. Install both where
+the deliverable is a marked up document rather than a report.
+
 ## What it does
 
 Given an offer document it will map the document, read it in the order that
