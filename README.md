@@ -122,3 +122,7 @@ was wrong, which is the assumption to start from.
 The skill produces observations and questions for an issuer. It does not and
 will not make a recommendation to subscribe or not to subscribe, and the report
 format requires that to be stated expressly.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
